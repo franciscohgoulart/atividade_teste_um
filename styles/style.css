@@ -1,0 +1,22 @@
+/* Estilos para a navbar */
+nav{
+    display: flex;
+    /* Alinha,distribui e organiza os elementos */
+    background-color: rgb(31, 31, 189);
+    /* Cor de fundo */
+    color: azure;
+    /* Cor do texto */
+    justify-content: center;
+    /* Move os elementos para o centro da esquerda para a direita (horizontalmente). */
+    align-items: center;
+    /* : Move os elementos para o centro de cima para baixo (verticalmente) */
+}
+/* Estilos para o corpo da página */
+body{
+    margin: 0;
+    /* margem do site */
+    padding: 0;
+    /* padding é o espaço entre o conteúdo e a borda */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* fonte usada */
+}
